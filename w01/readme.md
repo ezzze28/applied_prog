@@ -4,7 +4,7 @@ A simple app to use when you start your day, and as an educated person you say h
 
 The purpose of this app is to try some basic functions of the Python technology, and to provide a simple way to show salutations for you loved ones.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.loom.com/share/dd712bf7e3f84907a7d6b2132c9aab97?sid=dc5faca1-ee73-4ada-8f6a-2fd5c171e6e2)
 
 # Development Environment
 
