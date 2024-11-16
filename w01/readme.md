@@ -14,6 +14,5 @@ Written completely in Python lenguage as a demonstration of this technology.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [W3 Schools Python Guide](https://www.w3schools.com/python/python_strings.asp)
 * [freeCodeCamp Python Match guide](https://www.freecodecamp.org/news/python-switch-statement-switch-case-example/)
